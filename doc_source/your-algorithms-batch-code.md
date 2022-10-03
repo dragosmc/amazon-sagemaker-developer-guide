@@ -73,9 +73,9 @@ The response for a `GET` execution\-parameters request is a JSON object with key
 
 ```
 {
-“MaxConcurrentTransforms”: 8,
-“BatchStrategy": "MULTI_RECORD",
-"MaxPayloadInMB": 6
+    "MaxConcurrentTransforms": 8,
+    "BatchStrategy": "MULTI_RECORD",
+    "MaxPayloadInMB": 6
 }
 ```
 
